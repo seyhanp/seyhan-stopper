@@ -1,4 +1,4 @@
-seyhan-stopper
+The seyhan-stopper
 ===============
 
-seyhan projesi için durdurma arabirimi
+The service stopper interface for seyhan
